@@ -1,0 +1,6 @@
+pyrogram==2.0.106
+tgcrypto
+pytgcalls==4.0.1
+yt_dlp
+spotipy
+python-dotenv
